@@ -1,0 +1,8 @@
+[package]
+name = "hardware-testing"
+version = "0.1.0"
+authors = ["Tim <timothyhollabaugh@gmail.com>"]
+
+[dependencies]
+hardware = { path = "../hardware-rs"}
+rand = "0.3"
